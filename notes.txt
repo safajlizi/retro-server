@@ -1,0 +1,21 @@
+authentification ablig dans le cas que l'utilisateru a propres compte et propre donnees 
+**
+npm install --save jsonwebtoken
+npm install --asve bcrypt
+npm install --save bodyperser
+
+
+jwt : n7otouch fih les parametreconfidentielle 5atrou sahel bercha enou etdecoda donc n7otou kan 7ajat mch mouhema bercha kima id 
+donc dans token n7otouch :{ numero telephone, mots de pass , numero carte bancaire ...}
+*******
+regexp : pour controller la format
+emailregex.com
+
+
+npm install async --save
+
+waterfalls :
+ n'set pas  oblig mais nous permet que le code soit plus lisible
+   pour l'utiliser :
+      var asynclib= require('async');
+      
